@@ -2,6 +2,10 @@
 
 Analyzed Netflix's global content library to uncover insights about content types, release trends, country distribution, and popular genres. This project focuses on data cleaning, exploration, and storytelling through visuals using Python.
 
+## 📂 Dataset Source
+
+Original dataset: [Netflix Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 ## 📁 Files Included
 - `Netflix_Data_Analysis.ipynb`: Jupyter notebook with code, analysis, and visualizations
 - `cleaned_netflix_data.csv`: Cleaned dataset for reuse or Tableau dashboards
