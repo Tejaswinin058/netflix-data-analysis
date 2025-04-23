@@ -1,6 +1,3 @@
-# netflix-data-analysis
-Exploratory data analysis and visualization of Netflix content trends using Python.
-
 # Netflix Content Analysis
 
 Analyzed Netflix's global content library to uncover insights about content types, release trends, country distribution, and popular genres. This project focuses on data cleaning, exploration, and storytelling through visuals using Python.
